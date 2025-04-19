@@ -3,8 +3,4 @@ opencv-python
 mediapipe
 numpy
 flask_cors
-time
-math
-json
-os
 threading
